@@ -7,8 +7,11 @@ To develop a React application demonstrating state management using the useState
 
 ## Objectives
 1.Understand state in React.
+
 2.Initialize and update state variables.
+
 3.Handle button click events.
+
 4.Dynamically update the user interface.
 
 ## Program
